@@ -52,7 +52,7 @@ Figma 계정 만들기:
   Figma는 여러 사람이 동시에 작업할 수 있는 협업 기능을 제공합니다. 다른 사용자를 초대하여 함께 작업할 수 있습니다.
 
 ##  2023년 9월 12일 레포트
-[레포트]([0912/1st_rep/index.html](https://yuls0202.github.io/figma/0912/1st_rep/index.html)https://yuls0202.github.io/figma/0912/1st_rep/index.html)
+[레포트](https://yuls0202.github.io/figma/0912/1st_rep/index.html)
 
 
 
