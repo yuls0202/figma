@@ -55,7 +55,7 @@ Figma 계정 만들기:
 [20230912](https://yuls0202.github.io/figma/0912/1st_rep/index.html)
 
 ##  2023년 9월 19일 레포트
-[20230919](https://yuls0202.github.io/sourcecode/index.html)
+[20230919](https://yuls0202.github.io/record/sourcecode/index.html)
 
 
 
