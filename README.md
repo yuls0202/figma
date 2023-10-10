@@ -61,4 +61,4 @@ Figma 계정 만들기:
 [20230926](https://yuls0202.github.io/portfolio/ch04_mportpolio/mintro.html)
 
 ##  2023년 10월 10일 레포트
-[20231010](https://yuls0202.github.io/portfolio2/ch04_mportpolio/page-header.html)
+ [20231010](https://yuls0202.github.io/portfolio2/aaa/page-header.html)
