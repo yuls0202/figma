@@ -63,4 +63,6 @@ Figma 계정 만들기:
 ##  2023년 10월 10일 레포트
  [20231010](https://yuls0202.github.io/portfolio2/aaa/page-header.html)
 ##  2023년 10월 17일 레포트
- [20231017](https://yuls0202.github.io/bsks/)<br>
+ [20231017]( https://yuls0202.github.io/-/bsks-main/)<br>
+##  2023년 11월 07일 레포트
+[20231107](https://yuls0202.github.io/bsks/index.html)
