@@ -66,3 +66,4 @@ Figma 계정 만들기:
  [20231017]( https://yuls0202.github.io/-/bsks-main/)<br>
 ##  2023년 11월 07일 레포트
 [20231107](https://yuls0202.github.io/bsks/index.html)
+[20231107-2](https://yuls0202.github.io/py-bun/)
